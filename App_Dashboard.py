@@ -24,7 +24,7 @@ st.title("Kitchen Level PNL Dashboard")
 @st.cache_data
 def load_data():
     df = pd.read_excel(
-        "Kittchen PNL Data.xlsx",
+        "Kitchen Profit & Loss Data.xlsx",
         header=1
     )
     # Derived metrics
