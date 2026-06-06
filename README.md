@@ -1,6 +1,8 @@
 # Cloud Kitchen Financial Dashboard
 
 ---
+![Cloud Kitchen Dashboard](Screenshot (6).png)
+
 
 ## Live Dashboard
 
